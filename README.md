@@ -10,7 +10,7 @@ The `Projects` directory includes practical implementations and exercises:
 
 #### AVL_Airline_Reservation_System
 
-- **files/**: Contains data files used by the airline reservation system.
+- `files`: Contains data files used by the airline reservation system.
   - `Flights.txt`: Contains information about available flights.
   - `Reserves.txt`: Contains reservation records.
   - `Users.txt`: Contains user information.
