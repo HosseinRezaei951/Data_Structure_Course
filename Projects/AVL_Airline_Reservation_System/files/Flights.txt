@@ -1,5 +1,0 @@
-4
-4401 IranAirLine 150 Tabriz 96 05 15 12 30
-6601 IranAirLine 100 TehranImamkhomeyni 96 05 10 21 00
-6601 IranAirLine 20 TehranImamkhomeyni 96 05 20 21 00
-6602 IranSaba 150 TehranMehrabad 96 05 03 12 00
