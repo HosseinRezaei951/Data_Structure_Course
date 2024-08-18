@@ -37,9 +37,3 @@ The `Specials` directory contains additional programs for special topics and adv
 
 - `BFS.cpp`: Implementation of the Breadth-First Search (BFS) algorithm.
 - `Sparse_Matrix.cpp`: Implementation of operations for sparse matrices.
-
-## How to Use
-
-1. **Clone the Repository**: To access the files locally, clone the repository using:
-   ```bash
-   git clone https://github.com/your-username/Data_Structure.git
